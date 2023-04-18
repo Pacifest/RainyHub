@@ -3,6 +3,6 @@
 # Rainy Hub
 - Script loadstring
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pacifest/Eternal-Hub/main/Eternal%20Hub%20Public.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pacifest/RainyHub/main/script"))()
 ```
 - [Discord Server](https://dsc.gg/rainygoods)
